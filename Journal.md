@@ -6,7 +6,7 @@ created_at: "2025-05-23"
 ---
 
 # May 23, 2025
-  Started going through lots of videos and threads to find ideas for parts and general ideas of what I might want to do for design. I found some cool keycaps that look like a sunset.
+  Started going through lots of videos and threads to find ideas for parts and general ideas of what I might want to do for design. I found some cool keycaps that look like a sunset, and based on the color of RGB blacklighting they can look interesting.
 
 ![71nxtxnoUIL _AC_SL1500_](https://github.com/user-attachments/assets/9ab4c8ae-8bda-4039-9621-dc6d343a77a8)
 
