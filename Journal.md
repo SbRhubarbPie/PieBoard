@@ -16,6 +16,6 @@ created_at: "2025-05-23"
   **Total time spent today: 6hr**
 
 # May 25, 2025
-  I am revisiting what microcontroller to pick because the black pill is very expensive, however I am having a hard time finding anything with almost all gpios broken out. I found the rp2040 stamp, which is really nice and I might go with instead.
+  I am revisiting what microcontroller to pick because the black pill is very expensive, however I am having a hard time finding anything with almost all gpios broken out. I found the rp2040 stamp, which is really nice and I might go with instead, it is still a little expensive because of shipping but a lot better than the black pill.
   
   **Total time spent today: 1hr**
