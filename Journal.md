@@ -31,6 +31,12 @@ I looked into the general design of keyboards to get an idea of how I would want
 ![image](https://github.com/user-attachments/assets/5e597dac-7a56-464d-b6c7-48ea5171e471)
 
 
-I have begun work on the PCB design
-  
-  **Total time spent today: 2hr**
+I have sunk a ton of time into the schematic and pcb design, I can tell this is gonna take a ton of revisions.
+
+![image](https://github.com/user-attachments/assets/46e705bb-3e60-4e2c-9ff6-2ed007ed1c36)
+
+![image](https://github.com/user-attachments/assets/5acebf7e-ab2f-44fb-a95a-a14bc5ba6f91)
+
+Only partialy through the first routing but will 100% have to redo it at least a couple times
+
+  **Total time spent today: 12hr**
