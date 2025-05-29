@@ -58,3 +58,4 @@ Only partialy through the first routing but will 100% have to redo it at least a
   ![image](https://github.com/user-attachments/assets/431a338c-db5c-48eb-a8ec-489c70b10675)
 
   Researching how to implement fuse and ESD protection
+  **Total time spent today: 6hr**
