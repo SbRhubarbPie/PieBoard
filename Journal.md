@@ -47,6 +47,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 7hr**
 
 # May 27, 2025
-  Researched level shifters to implement into my data line for the LEDs, then finally finished my first draft of the schematic.
+  Added USB c then researched and added a level shifter for my LED data line.
+
   ![image](https://github.com/user-attachments/assets/011e30ae-d171-4e4c-8640-85a76201bff5)
   **Total time spent today: 4hr**
