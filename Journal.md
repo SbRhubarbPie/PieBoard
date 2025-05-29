@@ -51,3 +51,10 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
   ![image](https://github.com/user-attachments/assets/011e30ae-d171-4e4c-8640-85a76201bff5)
   **Total time spent today: 4hr**
+
+# May 27, 2025
+  Fixed multiple small issues, implemented ground fills and did overall polish
+
+  ![image](https://github.com/user-attachments/assets/431a338c-db5c-48eb-a8ec-489c70b10675)
+
+  Researching how to implement fuse and ESD protection
