@@ -41,7 +41,12 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
   **Total time spent today: 12hr**
 
-# May 25, 2025
+# May 26, 2025
   I finished routing all of the adressable LEDs, then had to start rerouting all of them over again (twice) because I used the wrong footprints, which cost me a lot of time. I also researched data resistors for the LED strand which is very interesting and looked into usb c options abd routing.
 
   **Total time spent today: 7hr**
+
+# May 27, 2025
+  Researched level shifters to implement into my data line for the LEDs, then finally finished my first draft of the schematic.
+  ![image](https://github.com/user-attachments/assets/011e30ae-d171-4e4c-8640-85a76201bff5)
+  **Total time spent today: 4hr**
