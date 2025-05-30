@@ -61,7 +61,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 6hr**
 
 # May 29, 2025
-  Redid my routing again to implement a duplex switch matrix as well as added the ESD and fuse protection. Routed data lines as a differential pair once I realised it was important. I think I am mostly done with the PCB and will start to focus on the case.
+  Redid my routing again to implement a duplex switch matrix and added the ESD and fuse protection. Routed data lines as a differential pair once I realised it was important. I think I am mostly done with the PCB and will start to focus on the case.
 
   ![image](https://github.com/user-attachments/assets/4a93d954-404f-4187-840e-eb1cf6a391ef)
 
