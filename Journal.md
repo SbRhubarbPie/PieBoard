@@ -69,7 +69,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
   ![image](https://github.com/user-attachments/assets/4606da61-9e26-4590-93d6-69ffa18ab279)
 
-  ![image](https://github.com/user-attachments/assets/f4416d30-b33d-45ee-8a5f-20d3d2cbdfcc)
+  ![image](https://github.com/user-attachments/assets/46b5c7c8-e4b2-4664-9024-0a4ef2ad39fe)
 
   **Total time spent today: 6hr**
 
