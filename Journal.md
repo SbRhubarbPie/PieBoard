@@ -71,5 +71,5 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
   ![image](https://github.com/user-attachments/assets/46b5c7c8-e4b2-4664-9024-0a4ef2ad39fe)
 
-  **Total time spent today: 6hr**
+  **Total time spent today: 8hr**
 
