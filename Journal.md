@@ -52,10 +52,20 @@ Only partialy through the first routing but will 100% have to redo it at least a
   ![image](https://github.com/user-attachments/assets/011e30ae-d171-4e4c-8640-85a76201bff5)
   **Total time spent today: 4hr**
 
-# May 27, 2025
+# May 28, 2025
   Fixed multiple small issues, implemented ground fills and did overall polish
 
   ![image](https://github.com/user-attachments/assets/431a338c-db5c-48eb-a8ec-489c70b10675)
 
   Researching how to implement fuse and ESD protection and starting CAD
   **Total time spent today: 6hr**
+
+# May 29, 2025
+  Redid my routing again to implement a duplex switch matrix as well as added the ESD and fuse protection. Routed data lines as a differential pair once I realised it was important. I think I am mostly done with the PCB and will start to focus on the CAD.
+
+  ![image](https://github.com/user-attachments/assets/4a93d954-404f-4187-840e-eb1cf6a391ef)
+
+  ![image](https://github.com/user-attachments/assets/08aeceb4-62d9-4b19-b534-9ad90bc50cd0)
+
+  **Total time spent today: 6hr**
+
