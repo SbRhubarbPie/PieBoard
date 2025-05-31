@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4b0e50b1-a7c9-447d-b2a1-acb8ecae3afe)---
+---
 title: "Pie Board"
 author: "SbRhubarbPie"
 description: "A custom 100% keyboard"
