@@ -26,7 +26,7 @@ I looked into the general design of keyboards to get an idea of how I would want
   **Total time spent today: 6hr**
 
 # May 25, 2025
-  I am revisiting what microcontroller to pick because the black pill is very expensive. I found the rp2350 stamp, which is really nice and I might go with instead, it is still a little expensive because of shipping but a lot better than the black pill.
+  I am revisiting what microcontroller to pick because I would to prefer to work with micropython. I found the rp2350 stamp, which is really nice and I might go with instead, it is still a little expensive because of shipping but a lot better than the black pill.
   
 ![image](https://github.com/user-attachments/assets/5e597dac-7a56-464d-b6c7-48ea5171e471)
 
