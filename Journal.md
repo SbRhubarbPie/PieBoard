@@ -90,3 +90,8 @@ Only partialy through the first routing but will 100% have to redo it at least a
   ![image](https://github.com/user-attachments/assets/4fb29ddc-f42c-46ac-9ba2-da394ece0922)
 
   **Total time spent today: 14hr**
+
+# June 2, 2025
+  Continued work on the case, researching how others have made 3d printed plates as I do not want to pay for metal. I am working on implementing a 3d printed nonslip TPU pad on the back.
+
+  **Total time spent today: 4hr**
