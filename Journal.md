@@ -83,7 +83,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 5hr**
 
 # June 1, 2025
-  Redid the pcb power routing and changed some components so I can only order off of one website. PCB is ready for order. Continued to work on the case, I think it is almost done.
+  Redid the pcb power routing and changed some components so I can only order off of one website. PCB is ready for order. Continued to work on the case.
 
   ![image](https://github.com/user-attachments/assets/6d6c4df0-775b-47ec-9ffd-a192ec009b54)
 
