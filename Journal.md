@@ -110,3 +110,11 @@ Only partialy through the first routing but will 100% have to redo it at least a
   I think I am getting close to finishing, will have to code and then review everything.
   
   **Total time spent today: 7hr**
+
+# June 3, 2025
+  Looking at implementing a ssd1306 screen here
+
+  ![image](https://github.com/user-attachments/assets/31ba0320-39be-426a-b21a-ebc661902aa3)
+
+  ![image](https://github.com/user-attachments/assets/045f95e3-af6a-4e66-9772-71113196e1d5)
+
