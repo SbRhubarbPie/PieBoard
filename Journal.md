@@ -95,3 +95,18 @@ Only partialy through the first routing but will 100% have to redo it at least a
   Continued work on the case, researching how others have made 3d printed plates as I do not want to pay for metal. I am working on implementing a 3d printed nonslip TPU pad on the back.
 
   **Total time spent today: 4hr**
+
+# June 3, 2025
+  More work on the case, I looked into adding an OLED screen but decided against it.
+
+  Added magnetic tpu feet as well as a logo plate sandwitched between the two bottom peices
+
+  ![image](https://github.com/user-attachments/assets/fdfeb17d-15b3-455c-8054-14161bf09991)
+
+  Created the cutout for the USB port
+
+  ![image](https://github.com/user-attachments/assets/05914af1-6f6a-473a-aebe-eafe04ff9a7e)
+
+  I think I am getting close to finishing, will have to code and then review everything.
+  
+  **Total time spent today: 7hr**
