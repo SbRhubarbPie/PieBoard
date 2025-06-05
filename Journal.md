@@ -118,3 +118,5 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
   ![image](https://github.com/user-attachments/assets/045f95e3-af6a-4e66-9772-71113196e1d5)
 
+  Decided to add it, looking at connectors I can use to get off the pcb
+
