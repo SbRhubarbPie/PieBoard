@@ -111,7 +111,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
   
   **Total time spent today: 7hr**
 
-# June 3, 2025
+# June 4, 2025
   Looking at implementing a ssd1306 screen here
 
   ![image](https://github.com/user-attachments/assets/31ba0320-39be-426a-b21a-ebc661902aa3)
