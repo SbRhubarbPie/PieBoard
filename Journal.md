@@ -120,3 +120,8 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
   Decided to add it, looking at connectors I can use to get off the pcb
 
+# June 5, 2025
+  Went to a peach pit concert :)
+
+# June 6, 2025
+  Spend a lot of time looking at options for attaching the screen, but I have just ended up deciding to hand solder it with wires instead of using any connectors to keep it simpler.
