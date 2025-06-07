@@ -126,6 +126,6 @@ Only partialy through the first routing but will 100% have to redo it at least a
   Went to a peach pit concert :)
 
 # June 6, 2025
-  Spend a lot of time looking at options for attaching the screen, but I have just ended up deciding to hand solder it with wires instead of using any connectors to keep it simpler.
+  Spend a lot of time looking at options for attaching the screen, but I have just ended up deciding to hand solder it with wires instead of using any connectors to keep it simpler. I then fixed the pcb to reflect this
   
   **Total time spent today: 4hr**
