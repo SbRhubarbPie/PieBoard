@@ -129,3 +129,12 @@ Only partialy through the first routing but will 100% have to redo it at least a
   Spend a lot of time looking at options for attaching the screen, but I have just ended up deciding to hand solder it with wires instead of using any connectors to keep it simpler. I then fixed the pcb to reflect this
   
   **Total time spent today: 4hr**
+
+# June 7, 2025
+  Finished implementing the screen into the case
+
+  ![image](https://github.com/user-attachments/assets/829bbb70-21b1-4497-9c65-b413a638152d)
+  
+  I did this by pushing it off the middle plate with pins so that way it is easily adjustable without reprinting an entire major part and to make production easier.
+
+  **Total time spent today: 3hr**
