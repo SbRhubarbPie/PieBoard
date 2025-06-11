@@ -14,7 +14,7 @@ from kmk.modules.encoder import EncoderHandler
 from kmk.extensions.media_keys import MediaKeys
 from kmk.extensions.rgb import AnimationModes
 
-#i2c = io.I2C(board.SCL, board.SDA)
+#(board.SCL, board.SDA)
 i2c = busio.I2C(board.GP1, board.GP2)
 oled = adafruit_ssd1306.SSD1306_I2C(128, 64, i2c)
 
