@@ -58,7 +58,7 @@ COL11 = board.GP8
 row_pins = [ROW1, ROW2, ROW3, ROW4, ROW5, ROW6, ROW7, ROW8, ROW9, ROW10, ROW11, ROW12]
 col_pins = [COL1, COL2, COL3, COL4, COL5, COL6, COL7, COL8, COL9, COL10, COL11]
 
-# I need to find my coord mapping when I have my keyboard assembled shttps://kmkfw-doc.misc.place/docs/basics/porting_to_kmk.html
+# I need to find my coord mapping when I have my keyboard assembled because my keyboard uses a duplex matrix
 coord_mapping = [
 
 ]
