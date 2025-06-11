@@ -1,17 +1,23 @@
 import board
 
-from kmk.kmk_keyboard import KMKKeyboard
 from kmk.keys import KC
 from kmk.extensions.RGB import RGB
-from kmk.scanners import DiodeOrientation
 from kmk.modules.layers import Layers
-from kmk.extensions.media_keys import MediaKeys
-
+from kmk.modules.macros import Macros
+from kmk.kmk_keyboard import KMKKeyboard
+from kmk.scanners import DiodeOrientation
 from kmk.modules.encoder import EncoderHandler
+from kmk.extensions.media_keys import MediaKeys
+from kmk.extensions.rgb import AnimationModes
+
+pieboard = KMKKeyboard()
+
+macros = Macros()
+pieboard.modules.append(macros)
+
 encoder_handler = EncoderHandler()
 pieboard.modules = [layers, holdtap, encoder_handler]
 
-pieboard = KMKKeyboard()
 
 ROW1 = board.GP4
 ROW2 = board.GP16
@@ -52,31 +58,35 @@ xxxxxxx = KC.NO
 
 # Default Layer
 [
-KC.ESC , KC.F1  , KC.F2  , KC.F3  , KC.F4  , xxxxxxx, KC.F5  , KC.F6  , KC.F7  , KC.F8  , KC.F9  , KC.F10 , KC.F11 , KC.F12 , KC.PSCR, KC.SLCK, KC.BRK
-KC.TILD, KC.N1  , KC.N2  , KC.N3  , KC.N4  , KC.N5  , KC.N6  , KC.N7  , KC.N8  , KC.N9  , KC.N0  , KC.MINS, KC.EQL , KC.BSPC, KC.INS , KC.HOME, KC.PGUP, KC.NLCK, KC.PSLS, KC.PAST, KC.PMNS
-KC.TAB , KC.Q   , KC.W   , KC.E   , KC.R   , KC.T   , KC.Y   , KC.U   , KC.I   , KC.O   , KC.P   , KC.LBRC, KC.RBRC, KC.BSLS, KC.DEL , KC.END , KC.PGDN, KC.KP_7, KC.KP_8, KC.KP_9, KC.PPLS
-KC.LCAP, KC.A   , KC.S   , KC.D   , KC.F   , KC.G   , KC.H   , KC.J   , KC.K   , KC.L   , KC.SCLN, KC.QUOT, xxxxxxx, KC.ENT , xxxxxxx, xxxxxxx, xxxxxxx, KC.KP_4, KC.KP_5, KC.KP_6,
-KC.LSFT, KC.Z   , KC.X   , KC.C   , KC.V   , KC.B   , KC.N   , KC.M   , KC.COMM, KC.DOT , KC.SLSH, xxxxxxx, xxxxxxx, KC.RSFT, xxxxxxx, KC.UP  , xxxxxxx, KC.KP_1, KC.KP_2, KC.KP_3, KC.PENT
+KC.ESC , KC.F1  , KC.F2  , KC.F3  , KC.F4  , xxxxxxx, KC.F5  , KC.F6  , KC.F7  , KC.F8  , KC.F9  , KC.F10  , KC.F11 , KC.F12 , KC.PSCR, KC.SLCK, KC.BRK
+KC.TILD, KC.N1  , KC.N2  , KC.N3  , KC.N4  , KC.N5  , KC.N6  , KC.N7  , KC.N8  , KC.N9  , KC.N0  , KC.MINS , KC.EQL , KC.BSPC, KC.INS , KC.HOME, KC.PGUP, KC.NLCK, KC.PSLS, KC.PAST, KC.PMNS
+KC.TAB , KC.Q   , KC.W   , KC.E   , KC.R   , KC.T   , KC.Y   , KC.U   , KC.I   , KC.O   , KC.P   , KC.LBRC , KC.RBRC, KC.BSLS, KC.DEL , KC.END , KC.PGDN, KC.KP_7, KC.KP_8, KC.KP_9, KC.PPLS
+KC.LCAP, KC.A   , KC.S   , KC.D   , KC.F   , KC.G   , KC.H   , KC.J   , KC.K   , KC.L   , KC.SCLN, KC.QUOT , xxxxxxx, KC.ENT , xxxxxxx, xxxxxxx, xxxxxxx, KC.KP_4, KC.KP_5, KC.KP_6,
+KC.LSFT, KC.Z   , KC.X   , KC.C   , KC.V   , KC.B   , KC.N   , KC.M   , KC.COMM, KC.DOT , KC.SLSH, xxxxxxx , xxxxxxx, KC.RSFT, xxxxxxx, KC.UP  , xxxxxxx, KC.KP_1, KC.KP_2, KC.KP_3, KC.PENT
 KC.LCTL, KC.LGUI, KC.LALT, xxxxxxx, xxxxxxx, KC.SPC , xxxxxxx, xxxxxxx, KC.RALT, KC.RGUI, xxxxxxx, KC.MO(1), xxxxxxx, KC.RCTL, KC.LEFT, KC.DOWN, KC.RGHT, KC.KP_0, xxxxxxx, KC.PDOT,
 
 # FN Layer
 ],
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , KC.MPRV, KC.MPLY, KC.MNXT, xxxxxxx
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , KC.RGB_SAI, xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, KC.RGB_HUD, KC.RGB_SAD, KC.RGB_HUI, xxxxxxx, xxxxxxx, xxxxxxx
 ]
 
 encoder_handler.pins = ( (board.GP29, board.GP30, board.GP26, False, 2,), )
 
-encoder_handler.map = [( KC.VOLD, KC.VOLU, KC.MUTE)]
+
+encoder_handler.map = [
+((KC.VOLD, KC.VOLU, KC.MUTE),), # Default 
+((KC.RGB_VAD, KC.RGB_VAI, KC.RGB_TOG),) # FN layer
+]
 
 
 rgb = RGB(pixel_pin=board.GP3, num_pixels = 104)
 pieboard.extensions.append(rgb)
 
-# Start kmk!
+
 if __name__ == '__main__':
     pieboard.go()
