@@ -1,5 +1,9 @@
 import board
 
+import busio
+import displayio, terminalio
+import adafruit_ssd1306
+from adafruit_display_text import label
 from kmk.keys import KC
 from kmk.extensions.RGB import RGB
 from kmk.modules.layers import Layers
@@ -9,6 +13,14 @@ from kmk.scanners import DiodeOrientation
 from kmk.modules.encoder import EncoderHandler
 from kmk.extensions.media_keys import MediaKeys
 from kmk.extensions.rgb import AnimationModes
+
+#i2c = io.I2C(board.SCL, board.SDA)
+i2c = busio.I2C(board.GP1, board.GP2)
+oled = adafruit_ssd1306.SSD1306_I2C(128, 64, i2c)
+
+oled.fill(0)
+oled.text('Test', 0, 0, 100)
+oled.show()
 
 pieboard = KMKKeyboard()
 
