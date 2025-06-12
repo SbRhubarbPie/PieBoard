@@ -33,7 +33,7 @@ I looked into the general design of keyboards to get an idea of how I would want
 ![image](https://github.com/user-attachments/assets/5e597dac-7a56-464d-b6c7-48ea5171e471)
 
 
-Busted out the first step of the schematic, the basic switch matrix, neoleds and pcb locations
+Busted out the first step of the schematic (basic switch matrix, neoleds and pcb locations)
 
 ![image](https://github.com/user-attachments/assets/46e705bb-3e60-4e2c-9ff6-2ed007ed1c36)
 
