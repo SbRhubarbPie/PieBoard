@@ -15,6 +15,7 @@
 "Shipping & Fees", "", "", "LCSC", "", "$12.29", ""
 "Stabilizers", "1 Set of 8", "1", "Amazon", "https://www.amazon.com/dp/B0B2RW12S2", "$22.98", ""
 "Keycaps", "1 Set", "1", "Amazon", "https://www.amazon.com/dagaladoo-Printed-PBT-keycaps-Through-Keyboard/dp/B0CP7NZCQY?th=1", "$25.64", ""
+"Solder Paste", "1", "1", "Amazon", "https://www.amazon.com/Essmetuin-Soldering-Electronics-soldering-Electrical/dp/B0BXM1GF3Y/131-1358947-9346814", "$8.99", ""
 "Screen", "1", "1", "Aliexpress", "https://www.aliexpress.us/item/3256806315309280.html", "$1.95", ""
 "5x2 Magnets", "8", "50", "Aliexpress", "https://www.aliexpress.us/item/3256808695821393.html", "$3.62", ""
 "USB C Cable", "1", "1", "Aliexpress", "https://www.aliexpress.us/item/3256808312113111.html", "$7.37", ""
@@ -24,4 +25,6 @@
 "Shipping", "", "", "Pimoroni", "", "$13.30", ""
 "Keyswitches", "104", "108", "Kinetic Labs", "https://kineticlabs.com/switches/gateron/gateron-milky-yellow-pro-black-bottom-linear", "$24.84", ""
 "Shipping", "", "", "Kinetic Labs", "", "$6.30", ""
+"", "", "", "", "", "", ""
+
 "", "", "", "", "", "", ""
