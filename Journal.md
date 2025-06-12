@@ -114,13 +114,13 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 7hr**
 
 # June 4, 2025
-  Looking at implementing a ssd1306 screen here. trying to figure out how to fit it in, might have to desolder the pins
+  Ultimately revisited the OLED screen, I am going to implement a ssd1306 screen here. trying to figure out how to fit it in, might have to desolder the pins
 
   ![image](https://github.com/user-attachments/assets/31ba0320-39be-426a-b21a-ebc661902aa3)
 
   ![image](https://github.com/user-attachments/assets/045f95e3-af6a-4e66-9772-71113196e1d5)
 
-  Decided to add it, looking at connectors I can use to get off the pcb
+  looking at connectors I can use to get off the pcb
   
   **Total time spent today: 4hr**
 
