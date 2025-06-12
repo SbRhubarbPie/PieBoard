@@ -5,6 +5,8 @@ This keyboard has a standard 104 key layout with a 6.25u spacebar, I did this fo
 
 I started this project because I wanted to make something with actual practical use while challenging myself to learn the depths of PCB design and get myself more familiar with coding as someone who mainly comes from 3d design. So far I am really satisfied with the results.
 
+Full 3d model (step file) is available here because github file size limits https://drive.google.com/file/d/1Ark-gIqw4EnjqvL87gDNia2R5NBRhxoe/view
+
 ![image](https://github.com/user-attachments/assets/0fdcb96a-4eba-498a-8c2e-01f926356701)
 
 ![image](https://github.com/user-attachments/assets/13c57975-325b-44fe-a202-be1dd8de9da1)
