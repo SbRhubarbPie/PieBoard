@@ -142,7 +142,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 3hr**
 
 # June 11, 2025
-  Over the last few days I have been really busy attending tons of friends grad parties and finishing up the end of the year. I was able to code most of the firmware with small amounts of spare time here and there but did not really have the time to journal everything. Today I finally had some time and have started to pull together all of the final files into the github. Looking at the BOM it is gonna be pretty expensive so I am currenty looking into removing the rp2350 stamp devboard and directly SMD mounting one instead.
+  Over the last few days I have been really busy attending tons of friends grad parties and finishing up the end of the year. I was able to code most of the firmware with small amounts of spare time here and there but did not really have the time to journal everything (if you are interested you can look at the commits). Today I finally had some time and have started to pull together all of the final files into the github. Looking at the BOM it is gonna be pretty expensive so I am currenty looking into removing the rp2350 stamp devboard and directly SMD mounting one instead.
 
   **Total time spent today: 6hr**
 
