@@ -1,7 +1,7 @@
 # PieBoard
 
 A 100% custom keyboard made as a project for Hack Club's Highway to Undercity,
-This keyboard has a standard 104 key layout with a 6.25u spacebar, I did this for keycap compatibility and because I really like full size keyboards because of the numpad and immense macro potential. It features per key individually addressable LEDs (neopixel), as well as magnetic TPU feet for quick changing of height. I added a rotary encoder on the top right of the keyboard for media control as well as a screen for personalization and to display extra information.
+This keyboard has a standard 104 key layout with a 6.25u spacebar, I did this for keycap compatibility and because I really like full size keyboards for the numpad and immense macro potential. It features per key individually addressable LEDs (neopixel), as well as magnetic TPU feet for quick changing of height. I also added a rotary encoder on the top right of the keyboard for media control as well as a screen for personalization and to display extra information.
 
 I started this project because I wanted to make something with actual practical use while challenging myself to learn the depths of PCB design and get myself more familiar with coding as someone who mainly comes from 3d design. So far I am really satisfied with the results.
 
