@@ -1,5 +1,5 @@
 "Name", "Quanity Needed", "Quantity Buying (Due to MOQs)", "Source", "Link", "Price", "Grand Total"
-"PCB", "1", "5", "JLCPCB", "", "$14.70 (with coupon)", ""
+"PCB", "1", "5", "JLCPCB", "", "$14.70", ""
 "Shipping", "", "", "JLCPCB", "", "$27.19", ""
 "Rotary Encoder", "1", "1", "LCSC", "https://www.lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E153440D_C370992.html", "$2.11", ""
 "100nF Capacitor", "", "100", "LCSC", "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html", "$0.45", ""
