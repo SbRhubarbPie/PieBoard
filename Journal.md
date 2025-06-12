@@ -5,7 +5,7 @@ description: "A custom 100% keyboard"
 created_at: "2025-05-23"
 ---
 
-**Total time spent on project: 85hr**
+**Total time spent on project: 87hr**
 
 # May 23, 2025
   Started going through lots of videos and threads to find ideas for parts and general ideas of what I might want to do for design. I found some cool keycaps that look like a sunset, and based on the color of RGB blacklighting they can look interesting.
@@ -147,6 +147,8 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 6hr**
 
 # June 12, 2025
-  I have decided that I will stick with the rp2350 stamp, building it directly into the keyboard seems like a fun project on its own and I now want to do something like that as a future project, but I am going to limit the scope of this project to prevent myself from going into the deep end and possibly having too many problems as this is one of my first pcb projects. I am continuing work with getting all my requirements for Highway submission.
+  I have decided that I will stick with the rp2350 stamp, building a controller directly into the keyboard seems like a fun project on its own and I now want to do something like that as a future project, but I am going to limit the scope of this project to prevent myself from going into the deep end and possibly having too many problems as this is one of my first pcb projects. I am continuing work with getting all my requirements for Highway submission.
 
-  **Total time spent today: 2hr**
+  Attended Zack Freedman's AMA while I finished uploading everything to the github.
+
+  **Total time spent today: 4hr**
