@@ -143,3 +143,8 @@ Only partialy through the first routing but will 100% have to redo it at least a
   Over the last few days I have been really busy attending tons of friends grad parties and finishing up the end of the year. I was able to code most of the firmware with small amounts of spare time here and there but did not really have the time to journal everything. Today I finally had some time and have started to pull together all of the final files into the github. Looking at the BOM it is gonna be pretty expensive so I am currenty looking into removing the rp2350 stamp devboard and directly SMD mounting one instead.
 
   **Total time spent today: 6hr**
+
+# June 12, 2025
+  I have decided that I will stick with the rp2350 stamp, building it directly into the keyboard seems like a fun project on its own and I now want to do something like that as a future project, but I am going to limit the scope of this project to prevent myself from going into the deep end and possibly having too many problems as this is one of my first pcb projects. I am continuing work with getting all my requirements for Highway submission.
+
+  **Total time spent today: 2hr**
