@@ -16,3 +16,6 @@ beware of making this project before I finish it and make fixes
 ![image](https://github.com/user-attachments/assets/3ebd68a2-3422-4ab2-8265-6e193ea580f5)
 
 ![image](https://github.com/user-attachments/assets/6fbcac67-30e9-40c5-92e9-0900ace2084a)
+
+![wiring](https://github.com/user-attachments/assets/cf27b1fe-adce-4132-be07-0b6ac819dee3)
+![wiring](https://github.com/user-attachments/assets/cf27b1fe-adce-4132-be07-0b6ac819dee3)
