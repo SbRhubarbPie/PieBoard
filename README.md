@@ -7,6 +7,8 @@ I started this project because I wanted to make something with actual practical 
 
 Full 3d model (step file) is available [here](https://drive.google.com/file/d/1Ark-gIqw4EnjqvL87gDNia2R5NBRhxoe/view) because github file size limits 
 
+beware of making this project before I finish it and make fixes
+
 ![image](https://github.com/user-attachments/assets/0fdcb96a-4eba-498a-8c2e-01f926356701)
 
 ![image](https://github.com/user-attachments/assets/13c57975-325b-44fe-a202-be1dd8de9da1)
