@@ -5,7 +5,7 @@ description: "A custom 100% keyboard"
 created_at: "2025-05-23"
 ---
 
-**Total time spent on project: 87hr**
+**Total time spent on project: 89hr**
 
 # May 23, 2025
   Started going through lots of videos and threads to find ideas for parts and general ideas of what I might want to do for design. I found some cool keycaps that look like a sunset, and based on the color of RGB blacklighting they can look interesting.
@@ -152,3 +152,7 @@ Only partialy through the first routing but will 100% have to redo it at least a
   Attended Zack Freedman's AMA while I finished uploading everything to the github.
 
   **Total time spent today: 4hr**
+
+# June 20, 2025
+  added decoupling capacitors for the neopixles
+  **Total time spent today: 2hr**
