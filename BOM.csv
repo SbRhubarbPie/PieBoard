@@ -3,6 +3,7 @@
 "Shipping", "", "", "JLCPCB", "", "$27.19", ""
 "Rotary Encoder", "1", "1", "LCSC", "https://www.lcsc.com/product-detail/Rotary-Encoders_ALPSALPINE-EC11E153440D_C370992.html", "$2.11", ""
 "100nF Capacitor", "1", "100", "LCSC", "https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0805KRX7R9BB104_C49678.html", "$0.45", ""
+"10uF Capacitor", "104", "120", "LCSC", "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL21A106KAYNNNE_C15850.html", "$1.32", ""
 "33Ω Resistor", "1", "100", "LCSC", "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F330JT5E_C17634.html", "$0.17", ""
 "5.1kΩ Resistor", "2", "100", "LCSC", "https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F5101T5E_C27834.html", "$0.19", ""
 "Resettable Fuse", "1", "5", "LCSC", "https://www.lcsc.com/product-detail/Resettable-Fuses_Littelfuse-1206L050-15YR_C151162.html", "$0.46", ""
@@ -25,4 +26,4 @@
 "Keyswitches", "104", "108", "Kinetic Labs", "https://kineticlabs.com/switches/gateron/gateron-milky-yellow-pro-black-bottom-linear", "$24.84", ""
 "Shipping", "", "", "Kinetic Labs", "", "$6.30", ""
 "Some Wire (14-16 awg", "1 foot ish?", "", "my box of random things", "", "$0", ""
-"", "", "", "", "", "", "197.36"
+"", "", "", "", "", "", "198.68"
