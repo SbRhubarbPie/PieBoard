@@ -154,6 +154,6 @@ Only partialy through the first routing but will 100% have to redo it at least a
   **Total time spent today: 4hr**
 
 # June 20, 2025
-  added decoupling capacitors for the neopixles
+  added decoupling capacitors for the neopixles, ordering parts
   
   **Total time spent today: 2hr**
