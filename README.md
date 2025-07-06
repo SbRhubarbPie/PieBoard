@@ -13,7 +13,7 @@ beware of making this project before I finish it and make fixes
 
 ![image](https://github.com/user-attachments/assets/13c57975-325b-44fe-a202-be1dd8de9da1)
 
-![image](https://github.com/user-attachments/assets/3ebd68a2-3422-4ab2-8265-6e193ea580f5)
+![image](https://github.com/user-attachments/assets/8eb089da-2d56-4754-99df-9720fa46ca90)
 
 ![image](https://github.com/user-attachments/assets/6fbcac67-30e9-40c5-92e9-0900ace2084a)
 
