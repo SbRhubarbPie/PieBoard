@@ -5,7 +5,7 @@ description: "A custom 100% keyboard"
 created_at: "2025-05-23"
 ---
 
-**Total time spent on project: 89hr**
+**Total time spent on project: 93hr**
 
 # May 23, 2025
   Started going through lots of videos and threads to find ideas for parts and general ideas of what I might want to do for design. I found some cool keycaps that look like a sunset, and based on the color of RGB blacklighting they can look interesting.
@@ -157,3 +157,12 @@ Only partialy through the first routing but will 100% have to redo it at least a
   added decoupling capacitors for the neopixles, ordering parts
   
   **Total time spent today: 2hr**
+
+# July 17, 2025
+  The last of my parts arrived during undercity, I soldered on the the basic parts to be able to make a connection to the microcontroller but am shorting out on my usb c connection, will try to resolder it to fix it tomorrow
+
+  <img width="826" height="412" alt="image" src="https://github.com/user-attachments/assets/6865424f-b32f-4265-be10-1e2340188b25" />
+
+  <img width="538" height="381" alt="image" src="https://github.com/user-attachments/assets/ef03a5c3-3e67-48ad-852c-8d370e09e088" />
+
+  **Total time spent today: 4hr**
