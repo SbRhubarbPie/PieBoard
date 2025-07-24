@@ -166,3 +166,9 @@ Only partialy through the first routing but will 100% have to redo it at least a
   <img width="538" height="381" alt="image" src="https://github.com/user-attachments/assets/ef03a5c3-3e67-48ad-852c-8d370e09e088" />
 
   **Total time spent today: 4hr**
+
+# July 18, 2025
+  Because I am inexperienced I ended up destroying the usb C port connections on my board, meaning I have to transfer the microcontroller to one of the spare boards I have. I tried to use my hot air station but the smd microcontroller was just too big so I ended up ordering a hot plate.
+
+# July 23, 2025
+  Hotplate arrived and I transfered the microcontroller to my spare board. I finally got the microcontroller to connect to my pc and am now going to finish soldering the rest of the components onto the new board
