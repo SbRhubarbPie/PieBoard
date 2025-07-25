@@ -5,7 +5,7 @@ description: "A custom 100% keyboard"
 created_at: "2025-05-23"
 ---
 
-**Total time spent on project: 93hr**
+**Total time spent on project: 99hr**
 
 # May 23, 2025
   Started going through lots of videos and threads to find ideas for parts and general ideas of what I might want to do for design. I found some cool keycaps that look like a sunset, and based on the color of RGB blacklighting they can look interesting.
@@ -169,6 +169,12 @@ Only partialy through the first routing but will 100% have to redo it at least a
 
 # July 18, 2025
   Because I am inexperienced I ended up destroying the usb C port connections on my board, meaning I have to transfer the microcontroller to one of the spare boards I have. I tried to use my hot air station but the smd microcontroller was just too big so I ended up ordering a hot plate.
+  **Total time spent today: 3hr**
 
 # July 23, 2025
   Hotplate arrived and I transfered the microcontroller to my spare board. I finally got the microcontroller to connect to my pc and am now going to finish soldering the rest of the components onto the new board
+  **Total time spent today: 3hr**
+
+# July 24, 2025
+  Put on all of the diodes and started testing firmware and the keys, I had an issue where multiple keys were being pressed from one key but it was because I was using solder wire to jump the key and not actual keyswitches. I ended up using POG to test the board but am looking to actually implement fully custom code.
+  **Total time spent today: 7hr**
