@@ -60,31 +60,40 @@ col_pins = [COL1, COL2, COL3, COL4, COL5, COL6, COL7, COL8, COL9, COL10, COL11]
 
 # I need to find my coord mapping when I have my keyboard assembled because my keyboard uses a duplex matrix
 coord_mapping = [
-
+000, 001, 002, 003, 004,      006, 007, 008, 009, 076, 075, 074, 073, 072, 071,
+011, 012, 013, 014, 015, 016, 017, 018, 019, 020, 087, 086, 085, 084, 083, 082, 081, 080, 079, 078, 077,
+022, 023, 024, 025, 026, 027, 028, 029, 030, 031, 098, 097, 096, 095, 094, 093, 092, 091, 090, 089, 088,
+033, 034, 035, 036, 037, 038, 039, 040, 041, 042, 109, 108,      106,                102, 101, 100,
+044, 045, 046, 047, 048, 049, 050, 051, 052, 053, 120,           117,      115,      113, 112, 111, 110,
+055, 056, 057,           060,           063, 064,      130,      128, 127, 126, 125, 124,      122, 
 ]
 
 pieboard.keymap = [
 
 _______ = KC.TRNS
 xxxxxxx = KC.NO
+LYR_FN = KC.MO(1)
 
 # Default Layer
 [
-KC.ESC , KC.F1  , KC.F2  , KC.F3  , KC.F4  , xxxxxxx, KC.F5  , KC.F6  , KC.F7  , KC.F8  , KC.F9  , KC.F10  , KC.F11 , KC.F12 , KC.PSCR, KC.SLCK, KC.BRK
-KC.TILD, KC.N1  , KC.N2  , KC.N3  , KC.N4  , KC.N5  , KC.N6  , KC.N7  , KC.N8  , KC.N9  , KC.N0  , KC.MINS , KC.EQL , KC.BSPC, KC.INS , KC.HOME, KC.PGUP, KC.NLCK, KC.PSLS, KC.PAST, KC.PMNS
-KC.TAB , KC.Q   , KC.W   , KC.E   , KC.R   , KC.T   , KC.Y   , KC.U   , KC.I   , KC.O   , KC.P   , KC.LBRC , KC.RBRC, KC.BSLS, KC.DEL , KC.END , KC.PGDN, KC.KP_7, KC.KP_8, KC.KP_9, KC.PPLS
-KC.LCAP, KC.A   , KC.S   , KC.D   , KC.F   , KC.G   , KC.H   , KC.J   , KC.K   , KC.L   , KC.SCLN, KC.QUOT , xxxxxxx, KC.ENT , xxxxxxx, xxxxxxx, xxxxxxx, KC.KP_4, KC.KP_5, KC.KP_6,
-KC.LSFT, KC.Z   , KC.X   , KC.C   , KC.V   , KC.B   , KC.N   , KC.M   , KC.COMM, KC.DOT , KC.SLSH, xxxxxxx , xxxxxxx, KC.RSFT, xxxxxxx, KC.UP  , xxxxxxx, KC.KP_1, KC.KP_2, KC.KP_3, KC.PENT
-KC.LCTL, KC.LGUI, KC.LALT, xxxxxxx, xxxxxxx, KC.SPC , xxxxxxx, xxxxxxx, KC.RALT, KC.RGUI, xxxxxxx, KC.MO(1), xxxxxxx, KC.RCTL, KC.LEFT, KC.DOWN, KC.RGHT, KC.KP_0, xxxxxxx, KC.PDOT,
+KC.ESC , KC.F1  , KC.F2  , KC.F3  , KC.F4  ,          KC.F5  , KC.F6  , KC.F7  , KC.F8  , KC.F9  , KC.F10  , KC.F11 , KC.F12 , KC.PSCR, KC.SLCK, KC.BRK,
+KC.TILD, KC.N1  , KC.N2  , KC.N3  , KC.N4  , KC.N5  , KC.N6  , KC.N7  , KC.N8  , KC.N9  , KC.N0  , KC.MINS , KC.EQL , KC.BSPC, KC.INS , KC.HOME, KC.PGUP, KC.NLCK, KC.PSLS, KC.PAST, KC.PMNS,
+KC.TAB , KC.Q   , KC.W   , KC.E   , KC.R   , KC.T   , KC.Y   , KC.U   , KC.I   , KC.O   , KC.P   , KC.LBRC , KC.RBRC, KC.BSLS, KC.DEL , KC.END , KC.PGDN, KC.KP_7, KC.KP_8, KC.KP_9, KC.PPLS,
+KC.LCAP, KC.A   , KC.S   , KC.D   , KC.F   , KC.G   , KC.H   , KC.J   , KC.K   , KC.L   , KC.SCLN, KC.QUOT ,          KC.ENT ,                            KC.KP_4, KC.KP_5, KC.KP_6,
+KC.LSFT, KC.Z   , KC.X   , KC.C   , KC.V   , KC.B   , KC.N   , KC.M   , KC.COMM, KC.DOT , KC.SLSH,                    KC.RSFT,          KC.UP  ,          KC.KP_1, KC.KP_2, KC.KP_3, KC.PENT,
+KC.LCTL, KC.LGUI, KC.LALT,                   KC.SPC ,                   KC.RALT, KC.RGUI,          LYR_FN  ,          KC.RCTL, KC.LEFT, KC.DOWN, KC.RGHT, KC.KP_0,          KC.PDOT,
+],
 
 # FN Layer
+[
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,          xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , KC.MPRV, KC.MPLY, KC.MNXT, xxxxxxx,
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx,
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,          xxxxxxx,                                     xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,
+xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,                   xxxxxxx,             KC.RGB_SAI,             xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx,
+xxxxxxx, xxxxxxx, xxxxxxx,                   xxxxxxx,                   xxxxxxx, xxxxxxx,          xxxxxxx,          xxxxxxx, KC.RGB_HUD, KC.RGB_SAD, KC.RGB_HUI, xxxxxxx,          xxxxxxx,
 ],
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , KC.MPRV, KC.MPLY, KC.MNXT, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , xxxxxxx   , xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx   , KC.RGB_SAI, xxxxxxx   , xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx
-xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, xxxxxxx, KC.RGB_HUD, KC.RGB_SAD, KC.RGB_HUI, xxxxxxx, xxxxxxx, xxxxxxx
+
 ]
 
 encoder_handler.pins = ( (board.GP29, board.GP30, board.GP26, False, 2,), )
